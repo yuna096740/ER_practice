@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-12T23:00:40.505Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JCbDtmH8szPAGFNiq8lI" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-12T23:03:24.621Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="5EDbqr-0E17ZQRrlDqzs" version="21.6.1" type="github">
   <diagram name="ページ1" id="A-aV3AcrUMxkYcAU4oyE">
     <mxGraphModel dx="3194" dy="2432" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1069,10 +1069,11 @@
         </mxCell>
         <mxCell id="ifHCPks3sFScEfOFRoQ5-464" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;exitX=0.993;exitY=0.383;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="ifHCPks3sFScEfOFRoQ5-311" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="717" y="-640" as="targetPoint" />
+            <mxPoint x="720" y="-630" as="targetPoint" />
             <Array as="points">
               <mxPoint x="360" y="-587" />
-              <mxPoint x="360" y="-640" />
+              <mxPoint x="360" y="-630" />
+              <mxPoint x="720" y="-630" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1372,6 +1373,14 @@
             <Array as="points">
               <mxPoint x="330" y="-610" />
               <mxPoint x="330" y="-895" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qf5iYrGHHnUxq8Ug7sN4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=ERmandOne;startFill=0;endArrow=ERzeroToMany;endFill=0;" edge="1" parent="1" source="ifHCPks3sFScEfOFRoQ5-270" target="Qf5iYrGHHnUxq8Ug7sN4-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-480" y="-650" />
+              <mxPoint x="-480" y="-275" />
             </Array>
           </mxGeometry>
         </mxCell>
